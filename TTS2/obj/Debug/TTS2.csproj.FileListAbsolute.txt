@@ -1,0 +1,9 @@
+c:\users\gvsyl\documents\visual studio 2012\Projects\TTS2\TTS2\bin\Debug\TTS2.exe.config
+c:\users\gvsyl\documents\visual studio 2012\Projects\TTS2\TTS2\bin\Debug\TTS2.exe
+c:\users\gvsyl\documents\visual studio 2012\Projects\TTS2\TTS2\bin\Debug\TTS2.pdb
+c:\users\gvsyl\documents\visual studio 2012\Projects\TTS2\TTS2\obj\Debug\TTS2.csprojResolveAssemblyReference.cache
+c:\users\gvsyl\documents\visual studio 2012\Projects\TTS2\TTS2\obj\Debug\TTS2.Form1.resources
+c:\users\gvsyl\documents\visual studio 2012\Projects\TTS2\TTS2\obj\Debug\TTS2.Properties.Resources.resources
+c:\users\gvsyl\documents\visual studio 2012\Projects\TTS2\TTS2\obj\Debug\TTS2.csproj.GenerateResource.Cache
+c:\users\gvsyl\documents\visual studio 2012\Projects\TTS2\TTS2\obj\Debug\TTS2.exe
+c:\users\gvsyl\documents\visual studio 2012\Projects\TTS2\TTS2\obj\Debug\TTS2.pdb
